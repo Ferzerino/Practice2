@@ -1,0 +1,8 @@
+rootProject.name = "ru.mirea.zgarbov.practice2"
+include ':app'
+include ':app:few'
+include ':lifecycleactivity'
+include ':intentfilter'
+include ':toastapp'
+include ':notificationapp'
+include ':dialog'
